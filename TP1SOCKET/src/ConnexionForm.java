@@ -6,7 +6,6 @@ import javax.swing.*;
 
 public class ConnexionForm extends JFrame {
 
-	public String Test;
 	//modification 
 	private JLabel bonjour;
 	private JLabel lnom;
